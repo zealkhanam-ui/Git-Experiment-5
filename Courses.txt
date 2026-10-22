@@ -2,3 +2,4 @@ M3
 OD
 os
 dsa
+new subject: project management with git
